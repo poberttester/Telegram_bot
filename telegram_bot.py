@@ -1,3 +1,5 @@
+# Установить библиотеку pip install pytelegrambotapi 
+
 import telebot
 
 
